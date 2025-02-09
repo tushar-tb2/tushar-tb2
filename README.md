@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tushar-tb2
-- 👀 I’m interested in front-end, back-end and fullstack development. I also like to do data mining, analysis and interpretation.
-- 🌱 I’m currently learning HTML,CSS, JS
+- 👋 Hi, I’m Tushar Bhatt.
+- 👀 I’m interested in Space Physics, Material Science,Instrumentation and  AI and Robotics.
+- 🌱 I’m currently exploring with differnt projects include Spacecraft Data Ananlysis, Radio Observations, AI and Robotics.
 - 💞️ I’m looking to collaborate on the same development programs.
 - 📫 How to reach me contact me @ btushar639@gmail.com
 
